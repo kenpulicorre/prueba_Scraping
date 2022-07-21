@@ -2,3 +2,4 @@ npm init
 npm i cheerio request request-promise
 
 npm i node-cron
+npm i axios node-localstorage
